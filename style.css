@@ -33,6 +33,10 @@ h2{
 	font-size: 2em;
 	letter-spacing: -0.05em;
 	color: #FD9220;
+	margin:1em 0 0.5em;
+}
+h3{
+	margin:2em 0 1em;
 }
 hr{
 	border:1px solid #DDDDDD;
